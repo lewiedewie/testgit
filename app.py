@@ -4,7 +4,7 @@ while True:
     answer = input(question)
     if answer == "":
         break
-    elif answer == "leon":
+    elif "leon" in answer.lower():
         print("you are a clown!")
     else:
         print(f"hello, {answer}")
