@@ -5,10 +5,10 @@ while True:
     if answer == "":
         break
     elif "lewie" in answer.lower():
-        print("helloe my lord") {answer}")
+        print(f"hello my lord, {answer}")
     elif "leon" in answer.lower():
         print("you are a very special clown!")
-    
-    elif "daddy" in answer. lower(): print(helloe old king or should i say farther)
+    elif "daddy" in answer.lower(): 
+        print("hello old king or should i say father")
 
-print(goodbye)
+print("goodbye")
