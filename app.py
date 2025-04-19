@@ -5,7 +5,7 @@ while True:
     if answer == "":
         break
     elif "lewie" in answer.lower():
-        print(f"hello, {answer}")
+        print("helloe my lord") {answer}")
     elif "leon" in answer.lower():
         print("you are a very special clown!")
     else:
