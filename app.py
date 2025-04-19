@@ -8,7 +8,7 @@ while True:
         print("helloe my lord") {answer}")
     elif "leon" in answer.lower():
         print("you are a very special clown!")
-    else:
-        print(f"hello, clown")
+    
+    elif "daddy" in answer. lower(): print(helloe old king or should i say farther)
 
-print("goodbye!")
+print(goodbye)
