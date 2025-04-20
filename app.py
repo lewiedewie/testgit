@@ -10,5 +10,9 @@ while True:
         print("you are a very special clown!")
     elif "daddy" in answer.lower(): 
         print("hello old king or should i say father")
-
+    elif "mummy" in answer.lower (): 
+        print( "hello mummy whats for brekfast")
+    else:
+        print(f"hello, {answer}")
+    
 print("goodbye")
